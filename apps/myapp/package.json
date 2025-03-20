@@ -1,0 +1,6 @@
+{
+  "name": "@pnpm-mono/myapp",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {}
+}
