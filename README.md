@@ -10,6 +10,8 @@ Open apps/myapp/src/app/app.tsx see the error in the editor on lines 8 and 9.
 
 Note that `pnpm nx typecheck myapp` does not show any errors.
 
+Run `pnpm nx build myapp` and view rollup errors
+
 ## Fix
 
 Two possible fixes:
